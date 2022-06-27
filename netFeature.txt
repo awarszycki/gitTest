@@ -1,1 +1,2 @@
-to jest amiana na masterze
+To jest zmiana na netFeature branch
+
